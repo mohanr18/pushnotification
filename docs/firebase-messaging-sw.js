@@ -9,3 +9,6 @@ firebase.initializeApp({
   appId: "1:765710826517:web:b96270beb647f91604a21c",
   measurementId: "G-V9EZGB828T"
   });
+  const messaging = firebase.messaging();
+
+  
