@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCPyuJpEvej939uPL76hyLv3929AWsHv1k",
-authDomain: "glasspushnotification.firebaseapp.com",
- projectId: "glasspushnotification",
- storageBucket: "glasspushnotification.appspot.com",
- messagingSenderId: "239757467941",
- appId: "1:239757467941:web:d78f0ef9cf5601eb577acc",
- measurementId: "G-JNEHD8ZPJP",
-    vapidKey: "BIaWdOYoYN3VqCdFgRZHLY2t4xpbNxfr02_1Dsac2-Zl-wwg8XziH2vieotfSclHnHV_1tePfXWH1GuxtozIe3g",
+    apiKey: "AIzaSyBtaBa-QSw-k8JIZB5CujqTGpCxBxHm0Jk",
+    authDomain: "northern-bliss-318216.firebaseapp.com",
+    projectId: "northern-bliss-318216",
+    storageBucket: "northern-bliss-318216.appspot.com",
+    messagingSenderId: "765710826517",
+    appId: "1:765710826517:web:b96270beb647f91604a21c",
+    measurementId: "G-V9EZGB828T",
+    vapidKey: "AAAAskfr_BU:APA91bHHcyxvU1wIjHiIB9k1neM6L2WBb73-tbnXJnVVjDzwU8rD3FDjHUTJyjhWdf6KYLO3rUZcaL0jbqHI0hqmNvV2oW0QPiLZKi1xwx6975W7ITwJzNztvHLi6WhJlttKzAOxLsl8",
   },
 };
 
