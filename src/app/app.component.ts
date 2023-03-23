@@ -33,7 +33,7 @@ export class AppComponent implements OnInit {
         // ...
       }
     }).catch((err) => {
-      console.log('An error occurred while retrieving token. ', err);
+      alert('An error occurred while retrieving token. '+ err);
       // ...
     });
 
